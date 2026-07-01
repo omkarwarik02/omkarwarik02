@@ -6,6 +6,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=MERN+%2B+AI+Developer;Building+DevLens+%26+PlanIQ;Open+Source+%40stark;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
+<pre align="center">
+   _____                _                _______ _                  
+  / ____|              (_)              / / ____| |                 
+ | |     ___   ___ ___  ___ __   __ _  | | (___ | |_ __ _  ___| | __
+ | |    / _ \ / __/ __|| | '_ \ / _` | | |\___ \| __/ _` |/ __| |/ /
+ | |___| (_) | (_| (__ | | | | | (_| | | |____) | || (_| | (__|   < 
+  \_____\___/ \___\___||_|_| |_|\__, | | |_____/ \__\__,_|\___|_|\_\
+                                  __/ |  \_\                         
+                                 |___/                               
+</pre>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/coding.gif" width="450" alt="coding gif" />
+</p>
+
 ---
 
 ### 💫 About Me
