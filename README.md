@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Omkar Warik 👋</h1>
+<h1 align="center">Hi , I'm Omkar Warik 👋</h1>
 
 <h3 align="center">Full-Stack Developer | Building AI-Powered Web Applications</h3>
 
