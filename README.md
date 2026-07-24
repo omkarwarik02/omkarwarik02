@@ -21,7 +21,7 @@ I'm a Computer Engineering graduate (2025) specializing in **full-stack developm
 - 🌱 Deepening my knowledge of **MongoDB**, **AI agents**, and **LangChain.js**
 - ⚡ Practicing DSA daily with a pattern-based approach (arrays → graphs → DP)
 - 💬 Ask me about **React, Node.js, Express, MongoDB, or AI API integrations**
-- 📫 Reach me at: **[Insert Email]**
+- 📫 Reach me at: **omkarwarik1204@gmail.com**
 
 ---
 
