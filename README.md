@@ -1,21 +1,65 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Omkar Warik 👋</h1>
 
-# Hi, I'm OMKAR AVINASH WARIK 👋
+<h3 align="center">Full-Stack Developer | Building AI-Powered Web Applications</h3>
 
-<a href="https://github.com/omkarwarik02"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40omkarwarik02-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40omkarwarik02-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a> <a href="https://x.com/OmkarWarik2"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/x/follow/OmkarWarik2.svg?variant=branded&amp;size=sm&amp;mode=dark"><img alt="X Follow" src="https://www.shieldcn.dev/x/follow/OmkarWarik2.svg?variant=branded&amp;size=sm&amp;mode=light"></picture></a> <a href="https://omkarwarik.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Website-omkarwarik.vercel.app-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-omkarwarik.vercel.app-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=MERN+%2B+AI+Developer;Building+DevLens+%26+PlanIQ;Open+Source+%40stark;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
-<a href="https://github.com/omkarwarik02?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/omkarwarik02.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/omkarwarik02.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/omkarwarik02?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/omkarwarik02.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/omkarwarik02.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/omkarwarik02?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-33-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-33-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-Pune-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-Pune-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture>
-
-</div>
-
-## 🛠️ Skills & Technologies
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="JavaScript" src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="ESLint" src="https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="React" src="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Tailwind CSS" src="https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Vite" src="https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="TanStack Query" src="https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
-
-## 📦 Top Repositories
-
-<a href="https://github.com/omkarwarik02/Helio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/omkarwarik02/Helio.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Helio ⭐ 1" src="https://www.shieldcn.dev/github/stars/omkarwarik02/Helio.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+<p align="center">
+  <a href="https://linkedin.com/in/omkar-warik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:omkarwarik1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://omkarwarik.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
+### 🚀 About Me
+
+- 🎓 2025 Computer Engineering graduate (SPPU)
+- 💻 Building full-stack apps with the **MERN** stack, integrating AI APIs (Groq, Gemini)
+- 📦 Published `@omkarwarik1204/stark` — a React component library on npm
+- 🔭 Currently deepening DSA (Java) and exploring AI agent development
+- 🌱 Actively looking for **Full-Stack / Frontend Developer** roles at product startups
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+**[DevLens](https://github.com/omkarwarik02/DevLens)**
+AI-powered code review tool — MERN stack + Groq API, GitHub OAuth, JWT auth. Deployed on Vercel/Render.
+
+**[PlanIQ](https://github.com/omkarwarik02)**
+AI study planner — Angular + Node.js + Gemini API, with rate limiting and FullCalendar integration.
+
+**[stark](https://www.npmjs.com/package/@omkarwarik1204/stark)**
+Minimalist React component library published on npm — DynamicIslandNavbar, FAQAccordion, DropdownMenu, FileDownloadButton. Built with Vite + TypeScript + Tailwind.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omkarwarik02&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarwarik02&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkarwarik02&style=flat-square&color=6366f1" alt="Profile views" />
+</p>
