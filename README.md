@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/omkar-warik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omkar-warik-7360b122b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:omkarwarik1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://omkarwarik.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
