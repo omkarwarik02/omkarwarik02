@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-- 🎓 2025 Computer Engineering graduate (SPPU)
+- 🎓 2025 Computer Engineering graduate
 - 💻 Building full-stack apps with the **MERN** stack, integrating AI APIs (Groq)
 - 📦 Published `@omkarwarik1204/stark` — a React component library on npm
 - 🌱 Actively looking for **Full-Stack / Frontend Developer** roles at product startups
