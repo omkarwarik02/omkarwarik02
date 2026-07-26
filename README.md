@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450" alt="coding gif" />
+</p>
+
 <h1 align="center">Hi there, I'm Omkar Warik 👋</h1>
 
 <h3 align="center">Full-Stack Developer | Building AI-Powered Web Applications</h3>
