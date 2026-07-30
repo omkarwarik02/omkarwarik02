@@ -85,4 +85,10 @@ npm install @omkarwarik1204/stark
 ```
 
 ---
+### 🌱 Open Source Contributions
+
+**[DevBoard](https://github.com/anoopcodehack/devboard)**
+Fixed silent crashes in task CRUD operations by adding proper error handling to a MERN-based Kanban board for developers. ([PR #105](https://github.com/anoopcodehack/DevBoard/pull/105))
+
+---
 
