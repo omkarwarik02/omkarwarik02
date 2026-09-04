@@ -1,13 +1,8 @@
-<h1 align="center">Hi, I'm Omkar Warik 👋</h1>
-
-<h3 align="center">Full-Stack Developer | Building AI-Powered Web Applications</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=MERN+%2B+AI+Developer;Building+DevLens+%26+PlanIQ;Open+Source+%40stark;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</p>
+<h1 align="center">Omkar Warik</h1>
+<h3 align="center">Full-Stack Developer — Building AI-Powered Web Applications</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800" alt="coding gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" alt="coding gif" />
 </p>
 
 <p align="center">
@@ -16,27 +11,15 @@
   <a href="https://omkarwarik.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+2025 Computer Engineering graduate building full-stack apps with the MERN stack and AI APIs (Groq, Gemini). Looking for Full-Stack / Frontend Developer roles at product startups.
 
-### 🚀 About Me
+### Projects
 
-- 🎓 2025 Computer Engineering graduate
-- 💻 Building full-stack apps with the **MERN** stack, integrating AI APIs (Groq)
-- 📦 Published `@omkarwarik1204/stark` — a React component library on npm
-- 🌱 Actively looking for **Full-Stack / Frontend Developer** roles at product startups
+- **DevLens** — AI-powered code review tool. React/TS, Node/Express, MongoDB, Groq API, GitHub OAuth.
+- **Helio** (formerly PlanIQ) — AI study planner. Angular, Node.js, Groq API.
+- **stark** — React component library, published on npm as [`@omkarwarik1204/stark`](https://www.npmjs.com/package/@omkarwarik1204/stark).
+- **DevBoard** — contributor to this open-source MERN Kanban app (merged PRs on error handling and AI tag suggestion).
 
+### Tech Stack
 
-
-### 📦 stark — my React component library
-
-`@omkarwarik1204/stark` is a minimalist, dependency-light React component library I built and published on npm. It ships DynamicIslandNavbar, FAQAccordion, DropdownMenu, and FileDownloadButton — designed with Vite + TypeScript + Tailwind for easy drop-in use.
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/@omkarwarik1204/stark"><img src="https://img.shields.io/npm/v/@omkarwarik1204/stark?style=flat-square&color=cb3837&logo=npm&logoColor=white&label=npm" /></a>
-</p>
-
-```bash
-npm install @omkarwarik1204/stark
-```
-
-
+TypeScript, JavaScript, Java · React, Angular, Tailwind · Node.js, Express · MongoDB, MySQL · Docker, Nginx, Vercel, Render
