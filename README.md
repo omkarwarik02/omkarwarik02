@@ -11,7 +11,7 @@
   <a href="https://omkarwarik.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
-2025 Computer Engineering graduate building full-stack apps with the MERN stack and AI APIs (Groq, Gemini). Looking for Full-Stack / Frontend Developer roles at product startups.
+2025 Computer Engineering graduate building full-stack apps with the MERN stack and AI APIs (Groq, Gemini).
 
 ### Projects
 
